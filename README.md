@@ -27,3 +27,10 @@ Una pagina html simple con propositos educativos
 ```
 - git push
 ```
+
+## Tareas
+
+-   Centrar imagen "hackea"
+-   Corregir color en el navbar
+-   Corregir color de fondo
+-   Corregir texto en el navbar
