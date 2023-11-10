@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     /* Aca podriamos cambiar el color a rojo del fondo  y que tengan que poner el que corresponde */
     /* background-color: #191919; */
-    background-color: blue;
+    background-color: darkgrey;
     display: flex;
     height: 100vh;
     flex-direction: column;
