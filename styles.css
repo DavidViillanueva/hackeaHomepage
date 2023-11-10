@@ -25,7 +25,7 @@ body {
     display: flex;
     padding: 0;
     /* Sacar este background color */
-    background-color: red;
+    background-color:#333;
 }
 
 .navbar-item {
